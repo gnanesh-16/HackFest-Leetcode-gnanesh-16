@@ -1,14 +1,24 @@
 ---
-description: >-
-  This Website gives insight on Most important ones which is useful for an
-  Interview at MAANG
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # INTERVIEW Q & A
 
-{% hint style="warning" %}
-## STRINGS&#x20;
-{% endhint %}
+## Guide to Navigating Interviews at MAANG Companies
+
+This document provides a comprehensive overview of the most crucial aspects needed to prepare for interviews at MAANG (Meta, Amazon, Apple, Netflix, Google) companies. It is designed to aid candidates in understanding the core areas of focus, thereby enhancing their chances for a successful interview process.
+
+{% embed url="https://github.com/gnanesh-16" %}
 
 
 
@@ -18,7 +28,8 @@ description: >-
 
 1. Write a Code to Reverse a String ?
 
-<pre class="language-java"><code class="lang-java">import java.util.Scanner;
+```java
+import java.util.Scanner;
 
 public class ReverseString {
     public static void main(String[] args) {
@@ -38,8 +49,8 @@ public class ReverseString {
         return reversed.toString();
     }
   }
-<strong>}
-</strong></code></pre>
+}
+```
 
 **`Output:-`**  _`Hello World`_ \[ to ]  `dlroW olleH`&#x20;
 
