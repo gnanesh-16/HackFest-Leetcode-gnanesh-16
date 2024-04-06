@@ -18,8 +18,6 @@ layout:
 
 This document provides a comprehensive overview of the most crucial aspects needed to prepare for interviews at MAANG (Meta, Amazon, Apple, Netflix, Google) companies. It is designed to aid candidates in understanding the core areas of focus, thereby enhancing their chances for a successful interview process.
 
-{% embed url="https://github.com/gnanesh-16" %}
-
 
 
 <details>
